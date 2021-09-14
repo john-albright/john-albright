@@ -1,4 +1,4 @@
-# Who am I 
+## Who am I 
 
 - 👋 Hi, I’m @john-albright
 - 👀 I’m interested in... foreign languages, travel, linguistics, music, vocal arts, programming, and education/teaching.

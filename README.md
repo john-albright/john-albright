@@ -1,7 +1,6 @@
 # Who am I 
 
 - 👋 Hi, I’m @john-albright
-- I'm a former teacher/tutor currently looking for software engineering jobs. 
 - 👀 I’m interested in... foreign languages, travel, linguistics, music, vocal arts, programming, and education/teaching.
 - 🌱 I’m currently learning... various frameworks and libraries for programming (e.g. React, Express, Flask)
 - 💻 I can't wait to learn... C++, Scala (for functional programming), Django, more JavaScript frameworks (e.g. Angular and Vue), Spring (Java framework), .NET (C# framework)
@@ -10,6 +9,11 @@
 - I've lived in two countries outside of the US (my home) for extended periods of time: India (1 school year) and Spain (~3 school years). 
 - 📫 How to reach me ... Email is best: johnialbright@gmail.com !
 
+## My Skillset
+
+Intermediate | Upper Beginner | Beginner | Learning 
+------------ | -------------- | -------- | --------
+Python Java, C#, JavaScript | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
 
 
 <!---

@@ -13,7 +13,7 @@
 
 Intermediate | Upper Beginner | Beginner | Learning 
 ------------ | -------------- | -------- | --------
-Python Java, C#, JavaScript | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
+Python, Java, C#, JavaScript | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
 
 
 <!---

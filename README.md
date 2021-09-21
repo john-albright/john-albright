@@ -4,15 +4,14 @@
 - 👀 I’m interested in... foreign languages, travel, linguistics, music, vocal arts, programming, and education/teaching.
 - 🌱 I’m currently learning... various frameworks and libraries (e.g. React, Express, Flask)
 - 💞️ I’m looking to collaborate on... applications that present free educational content (e.g. an automated SRS application, a language learning platform) or any type of full-stack project using a stack like MERN or no stack at all.
-- 📫 How to reach me ... Email is best: johnialbright@gmail.com !
+- 📫 How to reach me ... email: johnialbright@gmail.com !
 
 ## My Skillset
-<img src=""/>
 #### Programming Languages 
 
 Intermediate | Upper Beginner | Beginner
 ------------ | -------------- | --------
-<img align="left" alt="Java" width="90px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" /><img align="left" alt="JavaScript" width="90px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /><img align="left" alt="Python" width="90px" src="https://img.icons8.com/color/96/000000/python--v1.png" /><img align="left" alt="C#" width="90px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" /> | <img align="left" alt="C" width="90px" src="https://img.icons8.com/color/96/000000/c-programming.png" /><img align="left" alt="SQL" width="90px" src="https://img.icons8.com/color/96/000000/sql.png" /> | <img align="left" alt="Swift" width="90px" src="https://img.icons8.com/color/96/000000/swift.png" />
+<img align="left" alt="Java" width="90px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" /><img align="left" alt="JavaScript" width="90px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /><img align="left" alt="Python" width="90px" src="https://img.icons8.com/color/96/000000/python--v1.png" /><img align="left" alt="C#" width="90px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" /> | <img align="left" alt="C" width="90px" src="https://img.icons8.com/color/96/000000/c-programming.png" /><img align="left" alt="SQL" width="90px" src="https://img.icons8.com/color/96/000000/sql.png" /> | <img align="left" alt="Swift" width="90px" src="https://img.icons8.com/color/96/000000/swift.png" /><img align="left" alt="PL/SQL" width="90px" src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" />
 
 #### Libraries, Frameworks, and Platforms
 Beginner | New

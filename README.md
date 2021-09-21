@@ -13,7 +13,7 @@
 
 Intermediate | Upper Beginner | Beginner | Learning 
 ------------ | -------------- | -------- | --------
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/prplx/svg-logos/blob/master/svg/javascript.svg" /> | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/50/000000/javascript--v2.png" /> | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
 
 
 <!---

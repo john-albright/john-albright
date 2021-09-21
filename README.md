@@ -11,9 +11,12 @@
 
 ## My Skillset
 
+<img src=""/>
+<img src=""/>
+
 Intermediate | Upper Beginner | Beginner | Learning 
 ------------ | -------------- | -------- | --------
-<img align="left" alt="JavaScript" width="96px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /> | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
+<img align="left" alt="Java" width="90px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" /><img align="left" alt="JavaScript" width="90px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /><img align="left" alt="Python" width="90px" src="https://img.icons8.com/color/96/000000/python--v1.png" /><img align="left" alt="C#" width="90px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" /> | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
 
 
 <!---

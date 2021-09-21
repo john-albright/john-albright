@@ -14,9 +14,13 @@
 <img src=""/>
 <img src=""/>
 
-Intermediate | Upper Beginner | Beginner | Learning 
------------- | -------------- | -------- | --------
-<img align="left" alt="Java" width="90px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" /><img align="left" alt="JavaScript" width="90px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /><img align="left" alt="Python" width="90px" src="https://img.icons8.com/color/96/000000/python--v1.png" /><img align="left" alt="C#" width="90px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" /> | C, SQL | Swift, PL/SQL, Git | Bootstrap, jQuery, Flask, Redux/React, Express, D3, MongoDB/Mongoose
+#### Programming Languages 
+
+Intermediate | Upper Beginner | Beginner
+------------ | -------------- | --------
+<img align="left" alt="Java" width="90px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" /><img align="left" alt="JavaScript" width="90px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /><img align="left" alt="Python" width="90px" src="https://img.icons8.com/color/96/000000/python--v1.png" /><img align="left" alt="C#" width="90px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" /> | <img align="left" alt="C" width="90px" src="https://img.icons8.com/color/96/000000/c-programming.png" /><img align="left" alt="SQL" width="90px" src="https://img.icons8.com/color/96/000000/sql.png" /> | <img align="left" alt="Swift" width="90px" src="https://img.icons8.com/fluency/48/000000/swift.png" />
+
+#### Libraries, Frameworks, and Platforms
 
 
 <!---

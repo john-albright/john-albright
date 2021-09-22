@@ -9,7 +9,7 @@
 ## My Skillset
 #### Programming Languages 
 
-Intermediate | Upper Beginner | Beginner
+Intermediate | Beginner | New
 ------------ | -------------- | --------
 <img align="left" title="Java" alt="Java" width="70px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" /><img align="left" title="JavaScript" alt="JavaScript" width="70px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" /><img align="left" title="Python" alt="Python" width="80px" src="https://img.icons8.com/color/96/000000/python--v1.png" /><img align="left" title="C#" alt="C#" width="70px" src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" /> | <img align="left" title="C" alt="C" width="70px" src="https://img.icons8.com/color/96/000000/c-programming.png" /><img align="left" title="SQL (Oracle)" alt="SQL" width="70px" src="http://clipart-library.com/img1/866566.png" /> | <img align="left" title="Swift" alt="Swift" width="70px" src="https://img.icons8.com/color/96/000000/swift.png" /><img align="left" title="PL/SQL" alt="PL/SQL" height="70px" src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" />
 
